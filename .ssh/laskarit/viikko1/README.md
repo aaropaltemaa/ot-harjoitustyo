@@ -1,15 +1,11 @@
-Tämä on **harjoitustyö** -projektin README-tiedosto. 
-## Asennus
+### Ohjelmistotekniikka, harjoitustyö
 
-Ohjeet projektin asentamiseksi...
 
-## Käyttö
+## Tehtävät
 
-- *Käynnistä sovellus*.
-- *Kirjaudu sisään*.
-- *Selaa ominaisuuksia*.
+# Viikko 1
 
-## Lisenssi
+[komentorivi.txt](https://github.com/aaropaltemaa/ot-harjoitustyo/tree/main/laskarit/viikko1/komentorivi.txt)
 
-Tämän projektin lisenssi...
+[gitlog.txt](https://github.com/aaropaltemaa/ot-harjoitustyo/tree/main/laskarit/viikko1/gitlog.txt)
 
