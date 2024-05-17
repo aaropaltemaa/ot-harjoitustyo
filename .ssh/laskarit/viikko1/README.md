@@ -9,3 +9,7 @@
 
 [gitlog.txt](https://github.com/aaropaltemaa/ot-harjoitustyo/blob/master/.ssh/laskarit/viikko1/gitlog.txt)
 
+**paikallinen muutos**
+
+* * toinen paikallinen muutos * *
+
