@@ -13,3 +13,5 @@
 
 * * toinen paikallinen muutos * *
 
+
+*paikallinen muutos ilman push*
